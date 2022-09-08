@@ -4,3 +4,4 @@ Hello, my name is Khami Williams and I'm a sophomore at [McIntosh High School](h
 ## Contents
 - [Resume](RESUME.md)
 - [Programming Tables](PROGRAMMING-LANGUAGES-TABLE.md)
+- [Binary Logic](Binary-Logic.md)
