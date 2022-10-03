@@ -11,7 +11,7 @@ Chick-Fil-A Team Member 2022-Present
 - Member of McIntosh Dance Team
   - Choreographed full length routines to teach 40+ young students 
 - Volunteered at Bloom Our Youth 
-  - Helped sort through thousands of clothing and toy donations for children in foster care
+  - Helped sort through thousands of clothing items and toy donations for children in foster care
 ## Typing
 - Keys Learned
  - J, F, Space, U, R, K
