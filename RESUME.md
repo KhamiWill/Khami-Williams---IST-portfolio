@@ -15,3 +15,4 @@ Chick-Fil-A Team Member 2022-Present
 ## Typing
 - Keys Learned
  - J, F, Space, U, R, K, D, E, I
+-Average WPM: 50
