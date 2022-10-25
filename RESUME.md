@@ -14,5 +14,5 @@ Chick-Fil-A Team Member 2022-Present
   - Helped sort through thousands of clothing items and toy donations for children in foster care
 ## Typing
 - Keys Learned
- - J, F, Space, U, R, K, D, E, I, C, G, N, T, S, and L
+  - J, F, Space, U, R, K, D, E, I, C, G, N, T, S, and L
 -Average WPM: 50
